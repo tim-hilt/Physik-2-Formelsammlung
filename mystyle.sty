@@ -7,6 +7,7 @@
 \usepackage{empheq}
 \usepackage{gensymb}
 \usepackage{framed}
+\usepackage{float}
 
 \usepackage{xcolor}
 \colorlet{myred}{red!70!black}
@@ -25,6 +26,8 @@
 
 \renewcommand*\sectfont{\color{myred}\sffamily\bfseries}
 \addtokomafont{paragraph}{\normalcolor\normalfont}
+\setkomafont{caption}{\footnotesize}
+\setkomafont{captionlabel}{\usekomafont{caption}}
 
 \newcommand{\myhspace}{\-\hspace{1.5cm}}
 \newcommand{\mytextred}[1]{\textcolor{myred}{#1}}

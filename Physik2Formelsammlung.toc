@@ -1,26 +1,27 @@
 \babel@toc {ngerman}{}
 \contentsline {chapter}{\numberline {1}Schwingungen}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Formelzeichen}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Formeln}{1}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Allgemein}{1}{subsection.1.2.1}
-\contentsline {paragraph}{\nonumberline \(k_{Ges}\), wenn Federn parallel}{1}{section*.3}
+\contentsline {section}{\numberline {1.1}Dummy}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Formelzeichen}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Formeln}{2}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Allgemein}{2}{subsection.1.3.1}
+\contentsline {paragraph}{\nonumberline \(k_{Ges}\), wenn Federn parallel}{2}{section*.3}
 \contentsline {paragraph}{\nonumberline \(k_{Ges}\), wenn Federn seriell}{2}{section*.4}
 \contentsline {paragraph}{\nonumberline Eigenkreisfrequenz}{2}{section*.5}
 \contentsline {paragraph}{\nonumberline Umrechnung \(f\) / \(T\)}{2}{section*.6}
 \contentsline {paragraph}{\nonumberline Allgemeine Schwingungsdgl}{2}{section*.7}
 \contentsline {paragraph}{\nonumberline Drehmoment}{2}{section*.8}
-\contentsline {subsection}{\numberline {1.2.2}Unged\IeC {\"a}mpfte Systeme}{2}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3.2}Unged\IeC {\"a}mpfte Systeme}{2}{subsection.1.3.2}
 \contentsline {paragraph}{\nonumberline Kriterium f\IeC {\"u}r harmonische Schwingung:}{2}{section*.9}
 \contentsline {paragraph}{\nonumberline Weg-Zeit-Funktion unged\IeC {\"a}mpfter Systeme}{2}{section*.10}
 \contentsline {paragraph}{\nonumberline Schwingungsdauer unged\IeC {\"a}mpft}{2}{section*.11}
 \contentsline {paragraph}{\nonumberline Maximale Geschwindigkeit im Schwingvorgang}{2}{section*.12}
 \contentsline {paragraph}{\nonumberline Amplitude \(x_m\)}{2}{section*.13}
-\contentsline {paragraph}{\nonumberline Kreisfrequenz unged\IeC {\"a}mpft}{2}{section*.14}
-\contentsline {paragraph}{\nonumberline Hookesches Gesetz}{2}{section*.15}
-\contentsline {paragraph}{\nonumberline Hookesches Gesetz bei Drehbewegungen}{2}{section*.16}
+\contentsline {paragraph}{\nonumberline Kreisfrequenz unged\IeC {\"a}mpft}{3}{section*.14}
+\contentsline {paragraph}{\nonumberline Hookesches Gesetz}{3}{section*.15}
+\contentsline {paragraph}{\nonumberline Hookesches Gesetz bei Drehbewegungen}{3}{section*.16}
 \contentsline {subsubsection}{\nonumberline U-Rohr}{3}{section*.17}
 \contentsline {paragraph}{\nonumberline Schwingungsdgl am U-Rohr}{3}{section*.18}
-\contentsline {subsection}{\numberline {1.2.3}Ged\IeC {\"a}mpfte Systeme}{3}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.3.3}Ged\IeC {\"a}mpfte Systeme}{3}{subsection.1.3.3}
 \contentsline {paragraph}{\nonumberline Abklingfunktion}{3}{section*.19}
 \contentsline {paragraph}{\nonumberline Kreisfrequenz ged\IeC {\"a}mpft}{3}{section*.20}
 \contentsline {paragraph}{\nonumberline Abklingkoeffizient}{3}{section*.21}
@@ -29,10 +30,10 @@
 \contentsline {paragraph}{\nonumberline Reibkonstante}{3}{section*.24}
 \contentsline {paragraph}{\nonumberline Logarithmisches Dekrement}{3}{section*.25}
 \contentsline {paragraph}{\nonumberline G\IeC {\"u}te}{3}{section*.26}
-\contentsline {paragraph}{\nonumberline Schwingungsenergie}{3}{section*.27}
-\contentsline {paragraph}{\nonumberline Energieverlust}{3}{section*.28}
+\contentsline {paragraph}{\nonumberline Schwingungsenergie}{4}{section*.27}
+\contentsline {paragraph}{\nonumberline Energieverlust}{4}{section*.28}
 \contentsline {subsubsection}{\nonumberline Aperiodischer Grenzfall}{4}{section*.29}
-\contentsline {subsection}{\numberline {1.2.4}Erzwungen schwingende Systeme}{4}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.3.4}Erzwungen schwingende Systeme}{4}{subsection.1.3.4}
 \contentsline {chapter}{\numberline {2}Akustik}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Formelzeichen}{5}{section.2.1}
 \contentsline {section}{\numberline {2.2}Konstanten}{5}{section.2.2}
@@ -86,8 +87,9 @@
 \contentsline {subsection}{\numberline {5.3.1}Entspiegelung}{13}{subsection.5.3.1}
 \contentsline {paragraph}{\nonumberline Brechungsindex von Entspiegelungsschicht}{13}{section*.65}
 \contentsline {paragraph}{\nonumberline Gangunterschied zwischen den beiden Schichten}{13}{section*.66}
+\contentsline {paragraph}{\nonumberline Schichtdicke \(d\)}{13}{section*.67}
 \contentsline {subsection}{\numberline {5.3.2}Brechung}{13}{subsection.5.3.2}
-\contentsline {paragraph}{\nonumberline Umrechnungen}{13}{section*.67}
-\contentsline {paragraph}{\nonumberline Ausbreitungsgeschwindigkeit im Medium}{13}{section*.68}
-\contentsline {paragraph}{\nonumberline Grenzwinkel der Totalreflexion}{13}{section*.69}
-\contentsline {paragraph}{\nonumberline Brewsterwinkel}{13}{section*.70}
+\contentsline {paragraph}{\nonumberline Umrechnungen}{13}{section*.68}
+\contentsline {paragraph}{\nonumberline Ausbreitungsgeschwindigkeit im Medium}{13}{section*.69}
+\contentsline {paragraph}{\nonumberline Grenzwinkel der Totalreflexion}{13}{section*.70}
+\contentsline {paragraph}{\nonumberline Brewsterwinkel}{14}{section*.71}

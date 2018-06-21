@@ -1,7 +1,7 @@
 \documentclass[12pt, a4paper]{scrreprt}
 
 \usepackage{mystyle}
-\usepackage{float}
+\usepackage{graphicx}
 
 \begin{document}
 
@@ -286,13 +286,22 @@ Umrechung von Bogensekunden in Grad: \dotfill \(0 \degree 0\degree \text{Wert}\d
 \paragraph{Transmissionsgrad \(T\)} \dotfill \(T = 1 - R = \frac{4 n_1 n_2}{{(n_1 + n_2)}^2}\)\\
 \myhspace{} Gibt jeweils nur \textbf{einen} Übergang an!\\
 \myhspace{} Falls Medium nicht transparent gilt mit dieser Formel der \textbf{Absorptionsgrad}
-\paragraph{Transmissionsgrad \textbf{durch} Medium} \dotfill \(T = {(1 - R)}^2\)
+\paragraph{Transmissionsgrad \textbf{durch} Medium} \dotfill \(T_{Ges} = {(1 - R)}^2 \quad = \quad T_1 \cdot T_2\)
 
 
 \subsection{Entspiegelung}
+Hierbei sei \mytextred{\(n_1 / \lambda_1\)} die Wellenlänge und Brechzahl \mytextred{in Luft}, \mytextred{\(n_2 / \lambda_2\)} die Brechzahl und Wellenlänge \mytextred{in der Entspiegelungsschicht} der Dicke \(d\) und \mytextred{\(n_3 / \lambda_3\)} die Wellenlänge und Brechzahl \mytextred{des Brillenglases}.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width = 0.3\textwidth]{./Grafiken/Entspiegelung.png}
+  \caption[Entspiegelung]{Grafik zur Veranschaulichung der Entspiegelung}
+  \label{fig:Entspiegelung}
+\end{figure}
 
 \paragraph{Brechungsindex von Entspiegelungsschicht} \dotfill \(n_2 = \sqrt{n_1 * n_3}\)
 \paragraph{Gangunterschied zwischen den beiden Schichten} \dotfill \(\Delta x = 2 * n_2 * d\)
+\paragraph{Schichtdicke \(d\)} \dotfill \(d = \frac{\lambda_1}{4n_2}\)
 
 
 \subsection{Brechung}
