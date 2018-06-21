@@ -1,4 +1,4 @@
-\documentclass[a4paper, 12pt]{scrreprt}
+\documentclass[12pt, a4paper]{scrreprt}
 
 \usepackage{mystyle}
 \usepackage{float}
@@ -16,6 +16,9 @@
 %------------------------ Schwingungen -----------------------
 
 \chapter{Schwingungen}
+
+\section{Dummy}
+Dies ist eine Dummy-Section und ich werde sie nicht benutzen.
 
 \section{Formelzeichen}
 
@@ -278,30 +281,33 @@ Umrechung von Bogensekunden in Grad: \dotfill \(0 \degree 0\degree \text{Wert}\d
 
 \paragraph{Optischer Dopplereffekt} \dotfill \(f_E = f_S* \sqrt{\frac{c \pm v}{c \mp v}}\)
 \paragraph{Violett- / Rotverschiebung} \dotfill \(\lambda_E = \lambda_S*\sqrt{\frac{1 \mp \frac{v}{c}}{1 \pm \frac{v}{c}}}\)\\
-\myhspace \textcolor{myred}{Oberes Zeichen: Annäherung; Unteres Zeichen: Entfernung}
+\myhspace{} \textcolor{myred}{Oberes Zeichen: Annäherung; Unteres Zeichen: Entfernung}
 \paragraph{Reflexionsgrad \(R\)} \dotfill \(R = {\left( \frac{n_1 - n_2}{n_1 + n_2} \right)}^2\)
 \paragraph{Transmissionsgrad \(T\)} \dotfill \(T = 1 - R = \frac{4 n_1 n_2}{{(n_1 + n_2)}^2}\)\\
-\myhspace Gibt jeweils nur \textbf{einen} Übergang an!\\
-\myhspace Falls Medium nicht transparent gilt mit dieser Formel der \textbf{Absorptionsgrad}
+\myhspace{} Gibt jeweils nur \textbf{einen} Übergang an!\\
+\myhspace{} Falls Medium nicht transparent gilt mit dieser Formel der \textbf{Absorptionsgrad}
 \paragraph{Transmissionsgrad \textbf{durch} Medium} \dotfill \(T = {(1 - R)}^2\)
 
+
 \subsection{Entspiegelung}
+
 \paragraph{Brechungsindex von Entspiegelungsschicht} \dotfill \(n_2 = \sqrt{n_1 * n_3}\)
 \paragraph{Gangunterschied zwischen den beiden Schichten} \dotfill \(\Delta x = 2 * n_2 * d\)
 
 
-\subsection*{Brechung}
-\addcontentsline{toc}{subsection}{Brechung}
+\subsection{Brechung}
 
 \paragraph{Umrechnungen} \dotfill \(\frac{\sin \alpha}{\sin \beta} = \frac{n_2}{n_1} = \frac{c_1}{c_2} = \frac{\lambda_1}{\lambda_2}\)\\
-\myhspace \mytextred{Von dünn nach dicht $\rightarrow$ zum Lot hin; von dicht nach dünn $\rightarrow$ vom Lot weg}
+\myhspace{} \mytextred{Von dünn nach dicht $\rightarrow$ zum Lot hin; von dicht nach dünn $\rightarrow$ vom Lot weg}
 \paragraph{Ausbreitungsgeschwindigkeit im Medium} \dotfill \(c_n = \frac{c_0}{n}\)
 \paragraph{Grenzwinkel der Totalreflexion} \dotfill \(\sin \alpha = \frac{n_1}{n_2}\)\\
-\myhspace Von dichtem nach dünnem Medium
+\myhspace{} Von dichtem nach dünnem Medium
 \paragraph{Brewsterwinkel} \dotfill \(\tan \alpha = \frac{n_2}{n_1}\)\\
-\myhspace Gilt jeweils, wenn vollständig polarisierter Winkel gefragt ist\\
-\myhspace \mytextred{\(90 \degree\) zwischen reflektiertem und gebrochenem Strahl}\\
-\myhspace \mytextred{Der reflektierte Strahl ist vollständig linear polarisiert, der transmittierte Anteil wird vorwiegend parallel polarisiert.}
+\myhspace{} Gilt jeweils, wenn vollständig polarisierter Winkel gefragt ist\\
+\myhspace{} \mytextred{\(90 \degree\) zwischen reflektiertem und gebrochenem Strahl}\\
+\myhspace{} \mytextred{Der reflektierte Strahl ist vollständig linear polarisiert, der transmittierte Anteil wird vorwiegend parallel polarisiert.}
+
+
 
 \end{document}
 
