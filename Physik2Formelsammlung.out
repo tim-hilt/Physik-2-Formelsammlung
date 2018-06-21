@@ -1,0 +1,92 @@
+\BOOKMARK [0][-]{chapter.1}{Schwingungen}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Formelzeichen}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Formeln}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{Allgemein}{section.1.2}% 4
+\BOOKMARK [3][-]{section*.3}{kGes, wenn Federn parallel}{subsection.1.2.1}% 5
+\BOOKMARK [4][-]{section*.4}{kGes, wenn Federn seriell}{section*.3}% 6
+\BOOKMARK [4][-]{section*.5}{Eigenkreisfrequenz}{section*.3}% 7
+\BOOKMARK [4][-]{section*.6}{Umrechnung f / T}{section*.3}% 8
+\BOOKMARK [4][-]{section*.7}{Allgemeine Schwingungsdgl}{section*.3}% 9
+\BOOKMARK [4][-]{section*.8}{Drehmoment}{section*.3}% 10
+\BOOKMARK [2][-]{subsection.1.2.2}{Unged\344mpfte Systeme}{section.1.2}% 11
+\BOOKMARK [3][-]{section*.9}{Kriterium f\374r harmonische Schwingung:}{subsection.1.2.2}% 12
+\BOOKMARK [4][-]{section*.10}{Weg-Zeit-Funktion unged\344mpfter Systeme}{section*.9}% 13
+\BOOKMARK [4][-]{section*.11}{Schwingungsdauer unged\344mpft}{section*.9}% 14
+\BOOKMARK [4][-]{section*.12}{Maximale Geschwindigkeit im Schwingvorgang}{section*.9}% 15
+\BOOKMARK [4][-]{section*.13}{Amplitude xm}{section*.9}% 16
+\BOOKMARK [4][-]{section*.14}{Kreisfrequenz unged\344mpft}{section*.9}% 17
+\BOOKMARK [4][-]{section*.15}{Hookesches Gesetz}{section*.9}% 18
+\BOOKMARK [4][-]{section*.16}{Hookesches Gesetz bei Drehbewegungen}{section*.9}% 19
+\BOOKMARK [3][-]{section*.17}{U-Rohr}{subsection.1.2.2}% 20
+\BOOKMARK [4][-]{section*.18}{Schwingungsdgl am U-Rohr}{section*.17}% 21
+\BOOKMARK [2][-]{subsection.1.2.3}{Ged\344mpfte Systeme}{section.1.2}% 22
+\BOOKMARK [3][-]{section*.19}{Abklingfunktion}{subsection.1.2.3}% 23
+\BOOKMARK [4][-]{section*.20}{Kreisfrequenz ged\344mpft}{section*.19}% 24
+\BOOKMARK [4][-]{section*.21}{Abklingkoeffizient}{section*.19}% 25
+\BOOKMARK [4][-]{section*.22}{D\344mpfungskonstante}{section*.19}% 26
+\BOOKMARK [4][-]{section*.23}{Schwingungszeit ged\344mpft}{section*.19}% 27
+\BOOKMARK [4][-]{section*.24}{Reibkonstante}{section*.19}% 28
+\BOOKMARK [4][-]{section*.25}{Logarithmisches Dekrement}{section*.19}% 29
+\BOOKMARK [4][-]{section*.26}{G\374te}{section*.19}% 30
+\BOOKMARK [4][-]{section*.27}{Schwingungsenergie}{section*.19}% 31
+\BOOKMARK [4][-]{section*.28}{Energieverlust}{section*.19}% 32
+\BOOKMARK [3][-]{section*.29}{Aperiodischer Grenzfall}{subsection.1.2.3}% 33
+\BOOKMARK [2][-]{subsection.1.2.4}{Erzwungen schwingende Systeme}{section.1.2}% 34
+\BOOKMARK [0][-]{chapter.2}{Akustik}{}% 35
+\BOOKMARK [1][-]{section.2.1}{Formelzeichen}{chapter.2}% 36
+\BOOKMARK [1][-]{section.2.2}{Konstanten}{chapter.2}% 37
+\BOOKMARK [1][-]{section.2.3}{Formeln}{chapter.2}% 38
+\BOOKMARK [2][-]{section*.30}{Schallgeschwindigkeit}{section.2.3}% 39
+\BOOKMARK [3][-]{section*.31}{Schallintensit\344tspegel}{section*.30}% 40
+\BOOKMARK [4][-]{section*.32}{Summe mehrerer gleich lauter Schallpegel}{section*.31}% 41
+\BOOKMARK [4][-]{section*.33}{Summe mehrerer unterschiedlich lauter Schallquellen}{section*.31}% 42
+\BOOKMARK [4][-]{section*.34}{Schallpegeldifferenz:}{section*.31}% 43
+\BOOKMARK [4][-]{section*.35}{Schallintensit\344t}{section*.31}% 44
+\BOOKMARK [4][-]{section*.36}{Schallintensit\344t Halbkugel}{section*.31}% 45
+\BOOKMARK [4][-]{section*.37}{Schallintensit\344t Kugel}{section*.31}% 46
+\BOOKMARK [4][-]{section*.38}{Schallkennimpedanz / Wellenwiderstand}{section*.31}% 47
+\BOOKMARK [4][-]{section*.39}{Schalldruckamplitude}{section*.31}% 48
+\BOOKMARK [4][-]{section*.40}{Umrechnung vom Effektivwert}{section*.31}% 49
+\BOOKMARK [4][-]{section*.41}{Dopplereffekt}{section*.31}% 50
+\BOOKMARK [4][-]{section*.42}{Machscher Kegel}{section*.31}% 51
+\BOOKMARK [4][-]{section*.43}{Machzahl}{section*.31}% 52
+\BOOKMARK [4][-]{section*.44}{Ab wann \334berschallknall?}{section*.31}% 53
+\BOOKMARK [0][-]{chapter.3}{Wellen}{}% 54
+\BOOKMARK [1][-]{section.3.1}{Formelzeichen}{chapter.3}% 55
+\BOOKMARK [1][-]{section.3.2}{Formeln}{chapter.3}% 56
+\BOOKMARK [0][-]{chapter.4}{Stehende Wellen}{}% 57
+\BOOKMARK [1][-]{section.4.1}{Formelzeichen}{chapter.4}% 58
+\BOOKMARK [1][-]{section.4.2}{Konstanten}{chapter.4}% 59
+\BOOKMARK [1][-]{section.4.3}{Formeln}{chapter.4}% 60
+\BOOKMARK [2][-]{section*.45}{Schallgeschwindigkeit}{section.4.3}% 61
+\BOOKMARK [3][-]{section*.46}{L\344nge der Saite/des Rohres \(gleiche Enden\)}{section*.45}% 62
+\BOOKMARK [4][-]{section*.47}{L\344nge der Saite/ des Rohres \(ungleiche Enden\)}{section*.46}% 63
+\BOOKMARK [4][-]{section*.48}{L\344nge einfachster Fall \(gleiche Enden\)}{section*.46}% 64
+\BOOKMARK [4][-]{section*.49}{L\344nge einfachster Fall \(ungleiche Enden\)}{section*.46}% 65
+\BOOKMARK [4][-]{section*.50}{Grundschwingung/Wellenl\344nge gleiche Enden}{section*.46}% 66
+\BOOKMARK [4][-]{section*.51}{Grundschwingung ungleiche Enden}{section*.46}% 67
+\BOOKMARK [4][-]{section*.52}{Frequenzverh\344ltnis}{section*.46}% 68
+\BOOKMARK [4][-]{section*.53}{Wellenzahl}{section*.46}% 69
+\BOOKMARK [4][-]{section*.54}{Wellengeschwindigkeit}{section*.46}% 70
+\BOOKMARK [0][-]{chapter.5}{Optik}{}% 71
+\BOOKMARK [1][-]{section.5.1}{Formelzeichen}{chapter.5}% 72
+\BOOKMARK [1][-]{section.5.2}{Konstanten}{chapter.5}% 73
+\BOOKMARK [1][-]{section.5.3}{Formeln}{chapter.5}% 74
+\BOOKMARK [2][-]{section*.55}{Zusammenhang Frequenz / Ausbreitungsgeschwindigkeit}{section.5.3}% 75
+\BOOKMARK [3][-]{section*.56}{Abstand berechnen \(Radarpistole u.\304.\)}{section*.55}% 76
+\BOOKMARK [4][-]{section*.57}{Frequenzverschiebung}{section*.56}% 77
+\BOOKMARK [4][-]{section*.58}{Geschwindigkeit Zielfahrzeug}{section*.56}% 78
+\BOOKMARK [2][-]{section*.59}{Frequenzverschiebung beim Dopplereffekt}{section.5.3}% 79
+\BOOKMARK [3][-]{section*.60}{Optischer Dopplereffekt}{section*.59}% 80
+\BOOKMARK [4][-]{section*.61}{Violett- / Rotverschiebung}{section*.60}% 81
+\BOOKMARK [4][-]{section*.62}{Reflexionsgrad R}{section*.60}% 82
+\BOOKMARK [4][-]{section*.63}{Transmissionsgrad T}{section*.60}% 83
+\BOOKMARK [4][-]{section*.64}{Transmissionsgrad durch Medium}{section*.60}% 84
+\BOOKMARK [2][-]{subsection.5.3.1}{Entspiegelung}{section.5.3}% 85
+\BOOKMARK [3][-]{section*.65}{Brechungsindex von Entspiegelungsschicht}{subsection.5.3.1}% 86
+\BOOKMARK [4][-]{section*.66}{Gangunterschied zwischen den beiden Schichten}{section*.65}% 87
+\BOOKMARK [2][-]{section*.67}{Brechung}{section.5.3}% 88
+\BOOKMARK [3][-]{section*.68}{Umrechnungen}{section*.67}% 89
+\BOOKMARK [4][-]{section*.69}{Ausbreitungsgeschwindigkeit im Medium}{section*.68}% 90
+\BOOKMARK [4][-]{section*.70}{Grenzwinkel der Totalreflexion}{section*.68}% 91
+\BOOKMARK [4][-]{section*.71}{Brewsterwinkel}{section*.68}% 92

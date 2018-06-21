@@ -1,0 +1,112 @@
+%% Creator: Inkscape inkscape 0.92.2, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Farbspektrum_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{574.50000188bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.27287131)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.01729164,0.04716986){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}390\end{tabular}}}}%
+    \put(0.0425203,0.032337){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}400\end{tabular}}}}%
+    \put(0.30438578,0.032337){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}500\end{tabular}}}}%
+    \put(0.17383748,0.04278086){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}450\end{tabular}}}}%
+    \put(0.56548238,0.032337){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}600\end{tabular}}}}%
+    \put(0.43493408,0.04278086){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}550\end{tabular}}}}%
+    \put(0.82657895,0.032337){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}700\end{tabular}}}}%
+    \put(0.69603065,0.04278086){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}650\end{tabular}}}}%
+    \put(0.95712725,0.04278086){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}750\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.0225163,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}K\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.0381821,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}H\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.121733,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}G\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.26639374,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}F\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.37344335,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}E\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.53165468,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c} \end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.53687662,0.25574067){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}D\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.71392654,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}C\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.79119792,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}B\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.98179844,0.25203468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}A\end{tabular}}}}%
+    \put(0.50061384,0.00488791){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}Wellenlänge in nm\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.0705198,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}h\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.09924042,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}g\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.13235281,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}f\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.14339028,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}e\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.21590375,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}d\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.24201341,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}h\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.29251213,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}c\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.32503088,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}h\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.35031043,0.25047428){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}b\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.63632946,0.24259303){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}a\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{Farbspektrum_svg-tex.pdf}}%
+    \put(0.35060724,0.24158653){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}4-1\end{tabular}}}}%
+    \put(0.35375151,0.24158653){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c} \end{tabular}}}}%
+    \put(0.53663977,0.24696889){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}3-1\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
