@@ -82,7 +82,7 @@
 \contentsline {paragraph}{\nonumberline Violett- / Rotverschiebung}{12}{section*.61}
 \contentsline {paragraph}{\nonumberline Reflexionsgrad \(R\)}{12}{section*.62}
 \contentsline {paragraph}{\nonumberline Transmissionsgrad \(T\)}{12}{section*.63}
-\contentsline {paragraph}{\nonumberline Transmissionsgrad \textbf {durch} Medium}{12}{section*.64}
+\contentsline {paragraph}{\nonumberline Transmissionsgrad {\bfseries \leavevmode {\color {myred}durch}} Medium}{12}{section*.64}
 \contentsline {subsection}{\numberline {5.3.1}Entspiegelung}{13}{subsection.5.3.1}
 \contentsline {paragraph}{\nonumberline Brechungsindex von Entspiegelungsschicht}{13}{section*.65}
 \contentsline {paragraph}{\nonumberline Gangunterschied zwischen den beiden Schichten}{13}{section*.66}
@@ -99,3 +99,5 @@
 \contentsline {paragraph}{\nonumberline Intensit\IeC {\"a}tsminima}{14}{section*.75}
 \contentsline {subsubsection}{\nonumberline Gitter}{14}{section*.76}
 \contentsline {paragraph}{\nonumberline Intensit\IeC {\"a}tsmaxima}{14}{section*.77}
+\contentsline {paragraph}{\nonumberline Schirmposition \(x_k\) der Maxima}{14}{section*.78}
+\contentsline {paragraph}{\nonumberline Spektral\IeC {\"u}berlappungen ab dem \(k\)-ten Maximum am Schirm}{14}{section*.79}
