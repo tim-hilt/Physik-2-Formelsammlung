@@ -26,6 +26,7 @@
    (TeX-add-symbols
     '("mytextred" 1)
     '("mybfred" 1)
+    "bfseries"
     "myhspace")
    (LaTeX-add-xcolor-definecolors
     "myred"))

@@ -20,7 +20,20 @@
 
 \renewcommand{\familydefault}{\sfdefault} % Schreibe das gesamte Dokument in serifenloser Schrift (außer Math-Modes)
 
+%% Macht alles Mathezeugs ein bisschen größer und besser lesbar
 \everymath{\displaystyle}
+
+%% Macht Mathe zeichen in \textbf auch fett
+\makeatletter
+\DeclareRobustCommand\bfseries{%
+  \not@math@alphabet\bfseries\mathbf{}
+  \fontseries\bfdefault\selectfont
+  \boldmath% <-- added
+}
+\makeatother
+
+%% Macht alle textbf-Elemente rot
+\renewcommand{\textbf}[1]{{\bfseries\textcolor{myred}{#1}}}
 
 \setlength\extrarowheight{5pt}
 
@@ -31,7 +44,6 @@
 
 \newcommand{\myhspace}{\-\hspace{1.5cm}}
 \newcommand{\mytextred}[1]{\textcolor{myred}{#1}}
-\renewcommand{\textbf}[1]{{\bfseries\textcolor{myred}{#1}}}
 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1em}
