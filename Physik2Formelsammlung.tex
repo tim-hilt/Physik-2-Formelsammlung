@@ -242,6 +242,8 @@ Umrechung von Bogensekunden in Grad: \dotfill \(0 \degree 0\degree \text{Wert}\d
     \(f\) & Frequenz & \(Hz\)\\ \hline
     \(R\) & Reflexionsgrad & Gibt reflektierten Anteil\\ \hline
     \(T\) & Transmissionsgrad & Gibt transmittierten Anteil\\ \hline
+    \(g\) & Gitterkonstante / Abstand der Spaltmitten & \(m\)\\ \hline
+    \(\alpha_k\) & Ablemkungswinkel am \(k\)-ten Maximum & \(rad\)\\ \hline
   \end{tabular}
 \end{center}
 
@@ -287,7 +289,8 @@ Umrechung von Bogensekunden in Grad: \dotfill \(0 \degree 0\degree \text{Wert}\d
 
 
 \subsection{Entspiegelung}
-Hierbei sei \mytextred{\(n_1 / \lambda_1\)} die Wellenlänge und Brechzahl \mytextred{in Luft}, \mytextred{\(n_2 / \lambda_2\)} die Brechzahl und Wellenlänge \mytextred{in der Entspiegelungsschicht} der Dicke \(d\) und \mytextred{\(n_3 / \lambda_3\)} die Wellenlänge und Brechzahl \mytextred{des Brillenglases}.
+Hierbei sei \mytextred{\(n_1 / \lambda_1\)} die Wellenlänge und Brechzahl \mytextred{in Luft}, \mytextred{\(n_2 / \lambda_2\)} die Brechzahl und Wellenlänge \mytextred{in der Entspiegelungsschicht} der Dicke \(d\) und \mytextred{\(n_3 / \lambda_3\)} die Wellenlänge und Brechzahl \mytextred{des Brillenglases}.\\[1em]
+\textbf{Bei perfekt entspiegelten Oberflächen beträgt der Gangunterschied an der Oberfläche immer \(\frac{\lambda_1}{2}\)}
 
 \begin{figure}[H]
   \centering
@@ -303,7 +306,7 @@ Hierbei sei \mytextred{\(n_1 / \lambda_1\)} die Wellenlänge und Brechzahl \myte
 
 \subsection{Brechung}
 
-\paragraph{Umrechnungen} \dotfill \(\frac{\sin \alpha}{\sin \beta} = \frac{n_2}{n_1} = \frac{c_1}{c_2} = \frac{\lambda_1}{\lambda_2}\)\\
+\paragraph{Umrechnungen} \dotfill \(\frac{\sin \alpha}{\sin \beta} = \frac{n_2}{n_1} = \frac{c_1}{c_2} = \frac{\lambda_1}{\lambda_2}\)\\[1em]
 \myhspace{} \mytextred{Von dünn nach dicht $\rightarrow$ zum Lot hin; von dicht nach dünn $\rightarrow$ vom Lot weg}
 \paragraph{Ausbreitungsgeschwindigkeit im Medium} \dotfill \(c_n = \frac{c_0}{n}\)
 \paragraph{Grenzwinkel der Totalreflexion} \dotfill \(\sin \alpha = \frac{n_1}{n_2}\)\\
@@ -313,7 +316,19 @@ Hierbei sei \mytextred{\(n_1 / \lambda_1\)} die Wellenlänge und Brechzahl \myte
 \myhspace{} \mytextred{\(90 \degree\) zwischen reflektiertem und gebrochenem Strahl}\\
 \myhspace{} \mytextred{Der reflektierte Strahl ist vollständig linear polarisiert, der transmittierte Anteil wird vorwiegend parallel polarisiert.}
 
+\subsection{Beugung}
 
+\subsubsection{Einzelspalt}
+
+\subsubsection{Doppelspalt}
+
+\paragraph{Intensitätsmaxima} \dotfill \(g \sin(\alpha _k) = k \lambda = \Delta s\)
+\paragraph{Intensitätsminima} \dotfill \(g \sin(\alpha _k) = \left( k + \frac{1}{2} \right) \lambda\)
+
+\subsubsection{Gitter}
+
+\paragraph{Intensitätsmaxima} \dotfill \(g \sin(\alpha _k) = k \lambda = \Delta s\)\\
+\myhspace{} \mytextred{\(k \in 0, 1, 2, \dots\)}
 
 \end{document}
 
