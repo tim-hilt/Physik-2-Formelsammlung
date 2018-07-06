@@ -30,16 +30,24 @@
     \(\omega _d\) & Winkelgeschwindigkeit (gedämpftes System) & \(s^{-1}\)\\ \hline
     \(k\) & Federkonstante & \(\frac{N}{m}\)\\ \hline
     \(x\) & Auslenkung & \(m\)\\ \hline
+    \(l\) & Länge Fadenpendel & \(m\)\\ \hline
     \(D\) & Dämpfungskonstante & (Einheitenlos)\\ \hline
     \(\delta\) & Abklingkoeffizient & \(s^{-1}\)\\ \hline
     \(b\) & Reibkonstante & \(\frac{kg}{s}\)\\ \hline
     \(F_E\) & Anregende Kraft & \(N\)\\ \hline
+    \(E\) & Energie & \(J\)\\ \hline
     \(E_v/E_n\) & Energie davor / Energie danach\\ \hline
     \(J\) & Massenträgheitsmoment & \(kg*m^2\)\\ \hline
     \(\varphi\) & Drehwinkel & Bogenmaß\\ \hline
     \(M\) & Drehmoment & \(Nm\)\\ \hline
   \end{tabular}
 \end{center}
+
+\section{Konstanten}
+
+\begin{itemize}
+\item Gravitationskonstante \(g = 9.81 \frac{m}{s^2}\)
+\end{itemize}
 
 
 \section{Formeln}
@@ -58,33 +66,54 @@
 \subsection{Ungedämpfte Systeme}
 
 \paragraph{Kriterium für harmonische Schwingung: } \textbf{\(\frac{x}{F}\), bzw. \(\frac{\varphi}{M}\) muss linear sein!}
-\paragraph{Weg-Zeit-Funktion ungedämpfter Systeme} \dotfill \(x(t)=x_m* \cos(\omega t + \varphi_0)\)
-\paragraph{Schwingungsdauer ungedämpft} \dotfill \(T_0=2\pi*\sqrt{\frac{m}{k}}\)
-\paragraph{Maximale Geschwindigkeit im Schwingvorgang} \dotfill \(y_{\max} = x_m * \omega _0\)\\
+\paragraph{Weg-Zeit-Gesetz} \dotfill \(x(t)=x_0 * \cos(\omega_0 t + \varphi_0)\)
+\paragraph{Geschwindigkeit-Zeit-Gesetz} \dotfill \(v(t) = -x_0 * \omega_0 * \sin (\omega_0 t + \varphi_0)\)
+\paragraph{Beschleunigung-Zeit-Gesetz} \dotfill \(v(t) = -x_0 * \omega_0^2 * \cos (\omega_0 t + \varphi_0)\)
+\paragraph{Schwingungsdauer beim Federpendel} \dotfill \(T = 2\pi \sqrt{\frac{m}{k_{\text{ges}}}}\)
+\paragraph{Schwingungsdauer beim Fadenpendel} \dotfill \(T = 2\pi \sqrt{\frac{l}{g}}\)
+\paragraph{Energie beim Federpendel} \dotfill \(E = \frac{1}{2} k_{\text{ges}} * x^2\)
+\paragraph{Maximale Geschwindigkeit im Schwingvorgang} \dotfill \(v_{\max} = x_m * \omega _0\)\\
 \myhspace \textcolor{myred}{\(v_{\min}\) ist immer \(= 0\)!}
 \paragraph{Amplitude \(x_m\)} \dotfill \(x_m = \sqrt{x_0^2 + {\left( \frac{v_0}{\omega _0} \right)}^2}\)
 \paragraph{Kreisfrequenz ungedämpft} \dotfill \(\omega_0=\sqrt{\frac{k}{m}}\) Und bei Drehbewegungen: \(\omega_0=\sqrt{\frac{k}{J}}\)
-\paragraph{Hookesches Gesetz} \dotfill \(F_s=k*x\)
+\paragraph{Hookesches Gesetz} \dotfill \(F_R=k*x\)
 \paragraph{Hookesches Gesetz bei Drehbewegungen} \dotfill \(M = k * \varphi\)
 
 \subsubsection{U-Rohr}
+
 \paragraph{Schwingungsdgl am U-Rohr} \dotfill \(\underbrace{\rho*A*l}_\text{m}*\ddot x+\underbrace{\rho*A*g*2}_\text{k}x=0\)\\
 (\(x=x_0*\cos(\omega_0*t)\))
 
+\subsubsection{Fadenpendel}
+
+\paragraph{Grad zu Radien} \dotfill \(\varphi \rightarrow \frac{\varphi\ \pi}{180}\)
+
+\paragraph{Rückstellkraft \(F_R\) beim Fadenpendel} \dotfill \(F_R = m * g * \sin (\varphi) = F_G * \sin(\varphi)\)
+\paragraph{Auslenkungswinkel-Zeit-Gesetz} \dotfill \(\varphi(t) = \varphi_0 * \cos (\omega_0\ t * \alpha_0)\)\\[1em]
+\myhspace{} \textbf{Wobei \(\alpha_0\) die anfängliche Phasenverschiebung beschreibt,\\
+  diese gilt \underline{nur bei angeregten Schwingungen}}
+\paragraph{Winkelgeschwindigkeit-Zeit-Gesetz} \dotfill \(\omega(t) = -\varphi_0 * \omega_0 * \sin (\omega_0\ t * \alpha_0)\)\\
+\paragraph{Winkelbeschleunigungs-Zeit-Gesetz} \dotfill \(\alpha(t) = -\varphi_0 * \omega_0^2 * \cos (\omega_0\ t * \alpha_0)\)\\
+
+\paragraph{\(v_{\max}\) beim Fadenpendel} \dotfill \(v_{\max} = \sqrt{2 * g * h} \quad = \quad \frac{\varphi_0 \pi}{180} * \omega_0 * l\)\\[1em]
+\myhspace \textbf{Wobei \(h\) der Wert ist, um den sich das Pendel anhebt}\\
+\myhspace \textbf{\(l=\) Länge d. Pendels}
+\paragraph{Anfangsauslenkung \(\varphi_0\)} \dotfill \(\varphi_0 = \sqrt{\frac{2h}{l}}\)
 
 \subsection{Gedämpfte Systeme}
 
-\paragraph{Abklingfunktion} \dotfill \(x_m=x_0*e^{-\delta*t}\)
-\paragraph{Kreisfrequenz gedämpft} \dotfill \(\omega_d=\sqrt{\omega_0^2-\delta^2}=\omega_0\sqrt{1-D^2}\)
+\paragraph{Abklingfunktion Federpendel} \dotfill \(x_m=x_0*e^{-\delta * m * T_0}\)
+\paragraph{Abklingfunktion Fadenpendel} \dotfill \(\varphi_m = \varphi_0 * e^{-\delta * m * T_0}\)
+\paragraph{Kreisfrequenz gedämpft} \dotfill \(\omega_d=\sqrt{\omega_0^2-\delta^2} = \omega_0\sqrt{1-D^2}\)
 \paragraph{Abklingkoeffizient} \dotfill \(\delta=\frac{b}{2m}=D*\omega_0\)
 \paragraph{Dämpfungskonstante} \dotfill \(D=\frac{\delta}{\omega_0}\)
-\paragraph{Schwingungszeit gedämpft} \dotfill \(T_D=\frac{2\pi}{\sqrt{\omega_0^2-\delta^2}}=\frac{T_0}{\sqrt{1-D^2}}\)
+\paragraph{Schwingungszeit gedämpft} \dotfill \(T_D=\frac{2\pi}{\sqrt{\omega_0^2-\delta^2}}=\frac{T_0}{\sqrt{1-D^2}} = \frac{2\pi}{\omega_d}\)
 \paragraph{Reibkonstante} \dotfill \(b=\delta * 2m\)
 \paragraph{Logarithmisches Dekrement} \dotfill \(\Lambda=\delta*T_0\)
 \paragraph{Güte} \dotfill \(Q=\frac{\pi}{\delta*T}=\frac{1}{2D}\)
 \paragraph{Schwingungsenergie} \dotfill \(E = \frac{1}{2}*c*x^2\)
 \paragraph{Energieverlust} \dotfill
-\(\frac{\Delta E}{E} = 1-\frac{E_n}{E_v}=1-\frac{\frac{1}{2}\ c\ x_1^2}{\frac{1}{2}\ c\ x_0^2}\)\\
+\(\frac{\Delta E}{E} = 1-\frac{E_n}{E_v}=1-\frac{\frac{1}{2}\ c\ x_1^2}{\frac{1}{2}\ c\ x_0^2}\)\\[1em]
 \-\hspace{1.5cm}Kann noch gekürzt werden! \dotfill \(1-\frac{x_1^2}{x_0^2}\)
 
 \subsubsection{Aperiodischer Grenzfall}
@@ -121,7 +150,9 @@
 \end{center}
 
 \section{Konstanten}
-\(I_0 = 10^{-12}\ \frac{W}{m^2}\)
+\begin{itemize}
+\item \(I_0 = 10^{-12}\ \frac{W}{m^2}\)
+\end{itemize}
 
 \section{Formeln}
 \paragraph{Schallgeschwindigkeit} \dotfill \(c=\lambda * f\)\\
@@ -206,7 +237,10 @@ Umrechung von Bogensekunden in Grad: \dotfill \(0 \degree 0\degree \text{Wert}\d
 \end{center}
 
 \section{Konstanten}
-\textbf{Menschlicher Hörbereich:} \(16 - 20000 Hz\)\\
+
+\begin{itemize}
+\item Menschlicher Hörbereich: \(16 - 20000 Hz\)
+\end{itemize}
 
 \section{Formeln}
 \paragraph{Schallgeschwindigkeit} \dotfill \(c = \sqrt{\frac{\kappa * p}{\rho_T}} = 331\frac{m}{s} * \sqrt{\frac{273K + \cdots \degree C}{273K}}\)
@@ -248,8 +282,11 @@ Umrechung von Bogensekunden in Grad: \dotfill \(0 \degree 0\degree \text{Wert}\d
 \end{center}
 
 \section{Konstanten}
-\(c_0 = 3*10^8\frac{m}{s}\)\\[1em]
-\textcolor{myred}{Wellenlängenempfindlichkeit des Auges:} \(400 - 750\ nm\)\\
+
+\begin{itemize}
+\item Lichtgeschwindigkeit \(c_0 = 3*10^8\frac{m}{s}\)
+\item Wellenlängenempfindlichkeit des Auges: \(400 - 750\ nm\)
+\end{itemize}
 
 \begin{figure}[H]
   \centering
