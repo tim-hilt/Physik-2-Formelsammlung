@@ -15,57 +15,58 @@
 \contentsline {paragraph}{\nonumberline Weg-Zeit-Gesetz}{2}{section*.10}
 \contentsline {paragraph}{\nonumberline Geschwindigkeit-Zeit-Gesetz}{2}{section*.11}
 \contentsline {paragraph}{\nonumberline Beschleunigung-Zeit-Gesetz}{2}{section*.12}
-\contentsline {paragraph}{\nonumberline Schwingungsdauer beim Federpendel}{2}{section*.13}
-\contentsline {paragraph}{\nonumberline Schwingungsdauer beim Fadenpendel}{2}{section*.14}
-\contentsline {paragraph}{\nonumberline Energie beim Federpendel}{3}{section*.15}
-\contentsline {paragraph}{\nonumberline Maximale Geschwindigkeit im Schwingvorgang}{3}{section*.16}
-\contentsline {paragraph}{\nonumberline Amplitude \(x_m\)}{3}{section*.17}
-\contentsline {paragraph}{\nonumberline Kreisfrequenz unged\IeC {\"a}mpft}{3}{section*.18}
-\contentsline {paragraph}{\nonumberline Hookesches Gesetz}{3}{section*.19}
-\contentsline {paragraph}{\nonumberline Hookesches Gesetz bei Drehbewegungen}{3}{section*.20}
-\contentsline {subsubsection}{\nonumberline U-Rohr}{3}{section*.21}
-\contentsline {paragraph}{\nonumberline Schwingungsdgl am U-Rohr}{3}{section*.22}
-\contentsline {subsubsection}{\nonumberline Fadenpendel}{3}{section*.23}
-\contentsline {paragraph}{\nonumberline Grad zu Radien}{3}{section*.24}
-\contentsline {paragraph}{\nonumberline R\IeC {\"u}ckstellkraft \(F_R\) beim Fadenpendel}{3}{section*.25}
-\contentsline {paragraph}{\nonumberline Auslenkungswinkel-Zeit-Gesetz}{3}{section*.26}
-\contentsline {paragraph}{\nonumberline Winkelgeschwindigkeit-Zeit-Gesetz}{3}{section*.27}
-\contentsline {paragraph}{\nonumberline Winkelbeschleunigungs-Zeit-Gesetz}{4}{section*.28}
-\contentsline {paragraph}{\nonumberline \(v_{\qopname \relax m{max}}\) beim Fadenpendel}{4}{section*.29}
-\contentsline {paragraph}{\nonumberline Anfangsauslenkung \(\varphi _0\)}{4}{section*.30}
+\contentsline {paragraph}{\nonumberline Maximale Geschwindigkeit im Schwingvorgang}{2}{section*.13}
+\contentsline {paragraph}{\nonumberline Amplitude \(x_m\)}{2}{section*.14}
+\contentsline {paragraph}{\nonumberline Kreisfrequenz unged\IeC {\"a}mpft}{3}{section*.15}
+\contentsline {paragraph}{\nonumberline Hookesches Gesetz}{3}{section*.16}
+\contentsline {paragraph}{\nonumberline Hookesches Gesetz bei Drehbewegungen}{3}{section*.17}
+\contentsline {subsubsection}{\nonumberline U-Rohr}{3}{section*.18}
+\contentsline {paragraph}{\nonumberline Schwingungsdgl am U-Rohr}{3}{section*.19}
+\contentsline {subsubsection}{\nonumberline Fadenpendel}{3}{section*.20}
+\contentsline {paragraph}{\nonumberline Schwingungsdauer beim Fadenpendel}{3}{section*.21}
+\contentsline {paragraph}{\nonumberline Grad zu Radien}{3}{section*.22}
+\contentsline {paragraph}{\nonumberline R\IeC {\"u}ckstellkraft \(F_R\) beim Fadenpendel}{3}{section*.23}
+\contentsline {paragraph}{\nonumberline Auslenkungswinkel-Zeit-Gesetz}{3}{section*.24}
+\contentsline {paragraph}{\nonumberline Winkelgeschwindigkeit-Zeit-Gesetz}{3}{section*.25}
+\contentsline {paragraph}{\nonumberline Winkelbeschleunigungs-Zeit-Gesetz}{3}{section*.26}
+\contentsline {paragraph}{\nonumberline \(v_{\qopname \relax m{max}}\) beim Fadenpendel}{3}{section*.27}
+\contentsline {paragraph}{\nonumberline Anfangsauslenkung \(\varphi _0\)}{4}{section*.28}
+\contentsline {subsubsection}{\nonumberline Federpendel}{4}{section*.29}
+\contentsline {paragraph}{\nonumberline Schwingungsdauer beim Federpendel}{4}{section*.30}
+\contentsline {paragraph}{\nonumberline Energie beim Federpendel}{4}{section*.31}
 \contentsline {subsection}{\numberline {1.3.3}Ged\IeC {\"a}mpfte Systeme}{4}{subsection.1.3.3}
-\contentsline {paragraph}{\nonumberline Abklingfunktion Federpendel}{4}{section*.31}
-\contentsline {paragraph}{\nonumberline Abklingfunktion Fadenpendel}{4}{section*.32}
-\contentsline {paragraph}{\nonumberline Kreisfrequenz ged\IeC {\"a}mpft}{4}{section*.33}
-\contentsline {paragraph}{\nonumberline Abklingkoeffizient}{4}{section*.34}
-\contentsline {paragraph}{\nonumberline D\IeC {\"a}mpfungskonstante}{4}{section*.35}
-\contentsline {paragraph}{\nonumberline Schwingungszeit ged\IeC {\"a}mpft}{4}{section*.36}
-\contentsline {paragraph}{\nonumberline Reibkonstante}{4}{section*.37}
-\contentsline {paragraph}{\nonumberline Logarithmisches Dekrement}{4}{section*.38}
-\contentsline {paragraph}{\nonumberline G\IeC {\"u}te}{4}{section*.39}
-\contentsline {paragraph}{\nonumberline Schwingungsenergie}{5}{section*.40}
-\contentsline {paragraph}{\nonumberline Energieverlust}{5}{section*.41}
-\contentsline {subsubsection}{\nonumberline Aperiodischer Grenzfall}{5}{section*.42}
+\contentsline {paragraph}{\nonumberline Abklingfunktion Federpendel}{4}{section*.32}
+\contentsline {paragraph}{\nonumberline Abklingfunktion Fadenpendel}{4}{section*.33}
+\contentsline {paragraph}{\nonumberline Kreisfrequenz ged\IeC {\"a}mpft}{4}{section*.34}
+\contentsline {paragraph}{\nonumberline Abklingkoeffizient}{4}{section*.35}
+\contentsline {paragraph}{\nonumberline D\IeC {\"a}mpfungskonstante}{4}{section*.36}
+\contentsline {paragraph}{\nonumberline Schwingungszeit ged\IeC {\"a}mpft}{4}{section*.37}
+\contentsline {paragraph}{\nonumberline Reibkonstante}{4}{section*.38}
+\contentsline {paragraph}{\nonumberline Logarithmisches Dekrement}{4}{section*.39}
+\contentsline {paragraph}{\nonumberline G\IeC {\"u}te}{5}{section*.40}
+\contentsline {paragraph}{\nonumberline Schwingungsenergie}{5}{section*.41}
+\contentsline {paragraph}{\nonumberline Energieverlust}{5}{section*.42}
+\contentsline {subsubsection}{\nonumberline Aperiodischer Grenzfall}{5}{section*.43}
 \contentsline {subsection}{\numberline {1.3.4}Erzwungen schwingende Systeme}{5}{subsection.1.3.4}
 \contentsline {chapter}{\numberline {2}Akustik}{6}{chapter.2}
 \contentsline {section}{\numberline {2.1}Formelzeichen}{6}{section.2.1}
 \contentsline {section}{\numberline {2.2}Konstanten}{6}{section.2.2}
 \contentsline {section}{\numberline {2.3}Formeln}{6}{section.2.3}
-\contentsline {paragraph}{\nonumberline Schallgeschwindigkeit}{6}{section*.43}
-\contentsline {paragraph}{\nonumberline Schallintensit\IeC {\"a}tspegel}{7}{section*.44}
-\contentsline {paragraph}{\nonumberline Summe mehrerer \leavevmode {\color {myred}gleich lauter} Schallpegel}{7}{section*.45}
-\contentsline {paragraph}{\nonumberline Summe mehrerer \leavevmode {\color {myred}unterschiedlich lauter} Schallquellen}{7}{section*.46}
-\contentsline {paragraph}{\nonumberline Schallpegeldifferenz:}{7}{section*.47}
-\contentsline {paragraph}{\nonumberline Schallintensit\IeC {\"a}t}{7}{section*.48}
-\contentsline {paragraph}{\nonumberline Schallintensit\IeC {\"a}t Halbkugel}{7}{section*.49}
-\contentsline {paragraph}{\nonumberline Schallintensit\IeC {\"a}t Kugel}{8}{section*.50}
-\contentsline {paragraph}{\nonumberline Schallkennimpedanz / Wellenwiderstand}{8}{section*.51}
-\contentsline {paragraph}{\nonumberline Schalldruckamplitude}{8}{section*.52}
-\contentsline {paragraph}{\nonumberline Umrechnung vom Effektivwert}{8}{section*.53}
-\contentsline {paragraph}{\nonumberline Dopplereffekt}{8}{section*.54}
-\contentsline {paragraph}{\nonumberline Machscher Kegel}{8}{section*.55}
-\contentsline {paragraph}{\nonumberline Machzahl}{8}{section*.56}
-\contentsline {paragraph}{\nonumberline Ab wann \IeC {\"U}berschallknall?}{8}{section*.57}
+\contentsline {paragraph}{\nonumberline Schallgeschwindigkeit}{6}{section*.44}
+\contentsline {paragraph}{\nonumberline Schallintensit\IeC {\"a}tspegel}{7}{section*.45}
+\contentsline {paragraph}{\nonumberline Summe mehrerer \leavevmode {\color {myred}gleich lauter} Schallpegel}{7}{section*.46}
+\contentsline {paragraph}{\nonumberline Summe mehrerer \leavevmode {\color {myred}unterschiedlich lauter} Schallquellen}{7}{section*.47}
+\contentsline {paragraph}{\nonumberline Schallpegeldifferenz:}{7}{section*.48}
+\contentsline {paragraph}{\nonumberline Schallintensit\IeC {\"a}t}{7}{section*.49}
+\contentsline {paragraph}{\nonumberline Schallintensit\IeC {\"a}t Halbkugel}{7}{section*.50}
+\contentsline {paragraph}{\nonumberline Schallintensit\IeC {\"a}t Kugel}{8}{section*.51}
+\contentsline {paragraph}{\nonumberline Schallkennimpedanz / Wellenwiderstand}{8}{section*.52}
+\contentsline {paragraph}{\nonumberline Schalldruckamplitude}{8}{section*.53}
+\contentsline {paragraph}{\nonumberline Umrechnung vom Effektivwert}{8}{section*.54}
+\contentsline {paragraph}{\nonumberline Dopplereffekt}{8}{section*.55}
+\contentsline {paragraph}{\nonumberline Machscher Kegel}{8}{section*.56}
+\contentsline {paragraph}{\nonumberline Machzahl}{8}{section*.57}
+\contentsline {paragraph}{\nonumberline Ab wann \IeC {\"U}berschallknall?}{8}{section*.58}
 \contentsline {chapter}{\numberline {3}Wellen}{9}{chapter.3}
 \contentsline {section}{\numberline {3.1}Formelzeichen}{9}{section.3.1}
 \contentsline {section}{\numberline {3.2}Formeln}{9}{section.3.2}
@@ -73,45 +74,45 @@
 \contentsline {section}{\numberline {4.1}Formelzeichen}{10}{section.4.1}
 \contentsline {section}{\numberline {4.2}Konstanten}{10}{section.4.2}
 \contentsline {section}{\numberline {4.3}Formeln}{10}{section.4.3}
-\contentsline {paragraph}{\nonumberline Schallgeschwindigkeit}{10}{section*.58}
-\contentsline {paragraph}{\nonumberline L\IeC {\"a}nge der Saite/des Rohres (gleiche Enden)}{10}{section*.59}
-\contentsline {paragraph}{\nonumberline L\IeC {\"a}nge der Saite/ des Rohres (ungleiche Enden)}{11}{section*.60}
-\contentsline {paragraph}{\nonumberline L\IeC {\"a}nge einfachster Fall (gleiche Enden)}{11}{section*.61}
-\contentsline {paragraph}{\nonumberline L\IeC {\"a}nge einfachster Fall (ungleiche Enden)}{11}{section*.62}
-\contentsline {paragraph}{\nonumberline Grundschwingung/Wellenl\IeC {\"a}nge gleiche Enden}{11}{section*.63}
-\contentsline {paragraph}{\nonumberline Grundschwingung ungleiche Enden}{11}{section*.64}
-\contentsline {paragraph}{\nonumberline Frequenzverh\IeC {\"a}ltnis}{11}{section*.65}
-\contentsline {paragraph}{\nonumberline Wellenzahl}{11}{section*.66}
-\contentsline {paragraph}{\nonumberline Wellengeschwindigkeit}{11}{section*.67}
+\contentsline {paragraph}{\nonumberline Schallgeschwindigkeit}{10}{section*.59}
+\contentsline {paragraph}{\nonumberline L\IeC {\"a}nge der Saite/des Rohres (gleiche Enden)}{10}{section*.60}
+\contentsline {paragraph}{\nonumberline L\IeC {\"a}nge der Saite/ des Rohres (ungleiche Enden)}{11}{section*.61}
+\contentsline {paragraph}{\nonumberline L\IeC {\"a}nge einfachster Fall (gleiche Enden)}{11}{section*.62}
+\contentsline {paragraph}{\nonumberline L\IeC {\"a}nge einfachster Fall (ungleiche Enden)}{11}{section*.63}
+\contentsline {paragraph}{\nonumberline Grundschwingung/Wellenl\IeC {\"a}nge gleiche Enden}{11}{section*.64}
+\contentsline {paragraph}{\nonumberline Grundschwingung ungleiche Enden}{11}{section*.65}
+\contentsline {paragraph}{\nonumberline Frequenzverh\IeC {\"a}ltnis}{11}{section*.66}
+\contentsline {paragraph}{\nonumberline Wellenzahl}{11}{section*.67}
+\contentsline {paragraph}{\nonumberline Wellengeschwindigkeit}{11}{section*.68}
 \contentsline {chapter}{\numberline {5}Optik}{12}{chapter.5}
 \contentsline {section}{\numberline {5.1}Formelzeichen}{12}{section.5.1}
 \contentsline {section}{\numberline {5.2}Konstanten}{12}{section.5.2}
 \contentsline {section}{\numberline {5.3}Formeln}{13}{section.5.3}
-\contentsline {paragraph}{\nonumberline Zusammenhang Frequenz / Ausbreitungsgeschwindigkeit}{13}{section*.68}
-\contentsline {paragraph}{\nonumberline Abstand berechnen (Radarpistole u.\IeC {\"A}.)}{13}{section*.69}
-\contentsline {paragraph}{\nonumberline Frequenzverschiebung}{13}{section*.70}
-\contentsline {paragraph}{\nonumberline Geschwindigkeit Zielfahrzeug}{13}{section*.71}
-\contentsline {subsection}{Frequenzverschiebung beim Dopplereffekt}{13}{section*.72}
-\contentsline {paragraph}{\nonumberline Optischer Dopplereffekt}{13}{section*.73}
-\contentsline {paragraph}{\nonumberline Violett- / Rotverschiebung}{13}{section*.74}
-\contentsline {paragraph}{\nonumberline Reflexionsgrad \(R\)}{13}{section*.75}
-\contentsline {paragraph}{\nonumberline Transmissionsgrad \(T\)}{13}{section*.76}
-\contentsline {paragraph}{\nonumberline Transmissionsgrad {\bfseries \leavevmode {\color {myred}durch}} Medium}{13}{section*.77}
+\contentsline {paragraph}{\nonumberline Zusammenhang Frequenz / Ausbreitungsgeschwindigkeit}{13}{section*.69}
+\contentsline {paragraph}{\nonumberline Abstand berechnen (Radarpistole u.\IeC {\"A}.)}{13}{section*.70}
+\contentsline {paragraph}{\nonumberline Frequenzverschiebung}{13}{section*.71}
+\contentsline {paragraph}{\nonumberline Geschwindigkeit Zielfahrzeug}{13}{section*.72}
+\contentsline {subsection}{Frequenzverschiebung beim Dopplereffekt}{13}{section*.73}
+\contentsline {paragraph}{\nonumberline Optischer Dopplereffekt}{13}{section*.74}
+\contentsline {paragraph}{\nonumberline Violett- / Rotverschiebung}{13}{section*.75}
+\contentsline {paragraph}{\nonumberline Reflexionsgrad \(R\)}{13}{section*.76}
+\contentsline {paragraph}{\nonumberline Transmissionsgrad \(T\)}{13}{section*.77}
+\contentsline {paragraph}{\nonumberline Transmissionsgrad {\bfseries \leavevmode {\color {myred}durch}} Medium}{13}{section*.78}
 \contentsline {subsection}{\numberline {5.3.1}Entspiegelung}{14}{subsection.5.3.1}
-\contentsline {paragraph}{\nonumberline Brechungsindex von Entspiegelungsschicht}{14}{section*.78}
-\contentsline {paragraph}{\nonumberline Gangunterschied zwischen den beiden Schichten}{14}{section*.79}
-\contentsline {paragraph}{\nonumberline Schichtdicke \(d\)}{14}{section*.80}
+\contentsline {paragraph}{\nonumberline Brechungsindex von Entspiegelungsschicht}{14}{section*.79}
+\contentsline {paragraph}{\nonumberline Gangunterschied zwischen den beiden Schichten}{14}{section*.80}
+\contentsline {paragraph}{\nonumberline Schichtdicke \(d\)}{14}{section*.81}
 \contentsline {subsection}{\numberline {5.3.2}Brechung}{14}{subsection.5.3.2}
-\contentsline {paragraph}{\nonumberline Umrechnungen}{14}{section*.81}
-\contentsline {paragraph}{\nonumberline Ausbreitungsgeschwindigkeit im Medium}{14}{section*.82}
-\contentsline {paragraph}{\nonumberline Grenzwinkel der Totalreflexion}{15}{section*.83}
-\contentsline {paragraph}{\nonumberline Brewsterwinkel}{15}{section*.84}
+\contentsline {paragraph}{\nonumberline Umrechnungen}{14}{section*.82}
+\contentsline {paragraph}{\nonumberline Ausbreitungsgeschwindigkeit im Medium}{14}{section*.83}
+\contentsline {paragraph}{\nonumberline Grenzwinkel der Totalreflexion}{15}{section*.84}
+\contentsline {paragraph}{\nonumberline Brewsterwinkel}{15}{section*.85}
 \contentsline {subsection}{\numberline {5.3.3}Beugung}{15}{subsection.5.3.3}
-\contentsline {subsubsection}{\nonumberline Einzelspalt}{15}{section*.85}
-\contentsline {subsubsection}{\nonumberline Doppelspalt}{15}{section*.86}
-\contentsline {paragraph}{\nonumberline Intensit\IeC {\"a}tsmaxima}{15}{section*.87}
-\contentsline {paragraph}{\nonumberline Intensit\IeC {\"a}tsminima}{15}{section*.88}
-\contentsline {subsubsection}{\nonumberline Gitter}{15}{section*.89}
-\contentsline {paragraph}{\nonumberline Intensit\IeC {\"a}tsmaxima}{15}{section*.90}
-\contentsline {paragraph}{\nonumberline Schirmposition \(x_k\) der Maxima}{15}{section*.91}
-\contentsline {paragraph}{\nonumberline Spektral\IeC {\"u}berlappungen ab dem \(k\)-ten Maximum am Schirm}{15}{section*.92}
+\contentsline {subsubsection}{\nonumberline Einzelspalt}{15}{section*.86}
+\contentsline {subsubsection}{\nonumberline Doppelspalt}{15}{section*.87}
+\contentsline {paragraph}{\nonumberline Intensit\IeC {\"a}tsmaxima}{15}{section*.88}
+\contentsline {paragraph}{\nonumberline Intensit\IeC {\"a}tsminima}{15}{section*.89}
+\contentsline {subsubsection}{\nonumberline Gitter}{15}{section*.90}
+\contentsline {paragraph}{\nonumberline Intensit\IeC {\"a}tsmaxima}{15}{section*.91}
+\contentsline {paragraph}{\nonumberline Schirmposition \(x_k\) der Maxima}{15}{section*.92}
+\contentsline {paragraph}{\nonumberline Spektral\IeC {\"u}berlappungen ab dem \(k\)-ten Maximum am Schirm}{15}{section*.93}
