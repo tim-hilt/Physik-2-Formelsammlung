@@ -15,6 +15,16 @@
 \pagenumbering{arabic}
 %------------------------ Schwingungen -----------------------
 
+\chapter{Allgemeines}
+
+\section{Umrechnungen}
+
+\subsection{\(\frac{g}{cm^3} \rightarrow \frac{kg}{m^3}\)}
+
+Beispiel:
+
+\(7.87 \frac{g}{cm^3} \quad = \quad 7870 \frac{kg}{m^3}\)\\[1em]
+\(\frac{g}{cm^3} = \frac{1*10^{-3} kg}{1*10^{-6}m^3}\)
 \chapter{Schwingungen}
 
 \section{Formelzeichen}
@@ -79,20 +89,21 @@
 
 \subsubsection{U-Rohr}
 
-\paragraph{Schwingungsdgl am U-Rohr} \dotfill \(\underbrace{\rho*A*l}_\text{m}*\ddot x+\underbrace{\rho*A*g*2}_\text{k}x=0\)\\
+\paragraph{Schwingungsdgl am U-Rohr} \dotfill \(\underbrace{\rho*A*l}_\text{m}*\ddot x + b * \dot x +\underbrace{\rho*A*g*2}_\text{k}x=F_E\)\\
 (\(x=x_0*\cos(\omega_0*t)\))
 
 \subsubsection{Fadenpendel}
 
 \paragraph{Schwingungsdauer beim Fadenpendel} \dotfill \(T = 2\pi \sqrt{\frac{l}{g}}\)
+\paragraph{Winkelgeschwindigkeit} \dotfill \(\omega = \sqrt{\frac{l}{g}}\)
 \paragraph{Grad zu Radien} \dotfill \(\varphi \rightarrow \frac{\varphi\ \pi}{180}\)
 
 \paragraph{Rückstellkraft \(F_R\) beim Fadenpendel} \dotfill \(F_R = m * g * \sin (\varphi) = F_G * \sin(\varphi)\)
-\paragraph{Auslenkungswinkel-Zeit-Gesetz} \dotfill \(\varphi(t) = \varphi_0 * \cos (\omega_0\ t * \alpha_0)\)\\[1em]
+\paragraph{Auslenkungswinkel-Zeit-Gesetz} \dotfill \(\varphi(t) = \varphi_0 * \cos (\omega_0\ t + \alpha_0)\)\\[1em]
 \myhspace{} \textbf{Wobei \(\alpha_0\) die anfängliche Phasenverschiebung beschreibt,\\
   diese gilt \underline{nur bei angeregten Schwingungen}}
-\paragraph{Winkelgeschwindigkeit-Zeit-Gesetz} \dotfill \(\omega(t) = -\varphi_0 * \omega_0 * \sin (\omega_0\ t * \alpha_0)\)\\
-\paragraph{Winkelbeschleunigungs-Zeit-Gesetz} \dotfill \(\alpha(t) = -\varphi_0 * \omega_0^2 * \cos (\omega_0\ t * \alpha_0)\)\\
+\paragraph{Winkelgeschwindigkeit-Zeit-Gesetz} \dotfill \(\omega(t) = -\varphi_0 * \omega_0 * \sin (\omega_0\ t + \alpha_0)\)\\
+\paragraph{Winkelbeschleunigungs-Zeit-Gesetz} \dotfill \(\alpha(t) = -\varphi_0 * \omega_0^2 * \cos (\omega_0\ t + \alpha_0)\)\\
 
 \paragraph{\(v_{\max}\) beim Fadenpendel} \dotfill \(v_{\max} = \sqrt{2 * g * h} \quad = \quad \frac{\varphi_0 \pi}{180} * \omega_0 * l\)\\[1em]
 \myhspace \textbf{Wobei \(h\) der Wert ist, um den sich das Pendel anhebt}\\
@@ -107,7 +118,7 @@
 \subsection{Gedämpfte Systeme}
 
 \paragraph{Abklingfunktion Federpendel} \dotfill \(x_m=x_0*e^{-\delta * n * T_0}\)
-\paragraph{Abklingfunktion Fadenpendel} \dotfill \(\varphi_m = \varphi_0 * e^{-\delta * n * T_0}\)
+\paragraph{Abklingfunktion Fadenpendel} \dotfill \(\varphi_m = \varphi_0 * e^{-\delta * n * T_0}\)\\
 \myhspace{} \(n \in 1, 2, 3, \dots\) Anzahl Schwingungen / \(n \cdot T_0\): Dauer des Schwingungsvorgangs
 \paragraph{Kreisfrequenz gedämpft} \dotfill \(\omega_d=\sqrt{\omega_0^2-\delta^2} = \omega_0\sqrt{1-D^2}\)
 \paragraph{Abklingkoeffizient} \dotfill \(\delta=\frac{b}{2m}=D*\omega_0\)
@@ -252,14 +263,14 @@ Umrechung von Bogensekunden in Grad: \dotfill \(0 \degree 0\degree \text{Wert}\d
 \paragraph{Länge der Saite/des Rohres (gleiche Enden)} \dotfill \(l = (k + 1) * \frac{\lambda}{2} = (k + 1) * \frac{c}{2f}\)\\
 \myhspace \textbf{\(k \in 0, 1, 2, \dots\)}
 \paragraph{Länge der Saite/ des Rohres (ungleiche Enden)} \dotfill \(l = (2k+1) * \frac{\lambda}{4} = (2k+1) * \frac{c}{4f}\)\\
-\myhspace \textbf{\(k \in 0, 1, 2, \dots\)}\\
+\myhspace \textbf{\(k \in 0, 1, 2, \dots\)} \textbf{Achtung:} \(n\) entspricht \(k + 1\)!\\
 \myhspace \textbf{\glqq{} 1. Harmonische\grqq{} \(\equiv\) \glqq{} Grundschwingung \grqq{} \(\equiv\) \glqq{} 0. Oberschwingung\grqq{}}
 \paragraph{Länge einfachster Fall (gleiche Enden)} \dotfill \(l = \frac{\lambda}{2} = \frac{c}{2f_0}\)\\
 \myhspace \textbf{Gilt nur für Grundschwingung!}
 \paragraph{Länge einfachster Fall (ungleiche Enden)} \dotfill \(l = \frac{\lambda}{4} = \frac{c}{4f_0}\)\\
 \myhspace \textbf{Gilt nur für Grundschwingung!}
-\paragraph{Grundschwingung/Wellenlänge gleiche Enden} \dotfill \(f = \frac{c}{4*l} ; \lambda = 4 * L\)
-\paragraph{Grundschwingung ungleiche Enden} \dotfill \(f = \frac{c}{2*l} ; \lambda = 2 * L\)
+\paragraph{Grundschwingung/Wellenlänge gleiche Enden} \dotfill \(f = \frac{c}{4*l} ; \lambda = 4 * l\)
+\paragraph{Grundschwingung ungleiche Enden} \dotfill \(f = \frac{c}{2*l} ; \lambda = 2 * l\)
 \paragraph{Frequenzverhältnis} \dotfill Bsp. \(\frac{5}{4} \rightarrow \frac{\text{Frequenz nachher}}{\text{Frequenz vorher}}\)
 \paragraph{Wellenzahl} \dotfill \(k = \frac{2\pi}{\lambda} = \frac{\omega}{c}\)
 \paragraph{Wellengeschwindigkeit} \dotfill \(c = \sqrt{\frac{F_G}{\rho * A}}\) bzw. \(= \sqrt{\frac{F(x)_G}{\rho * A}}\)\\ , Wenn nicht die gesamte, sondern die Geschwindigkeit an einer bestimmten Stelle gesucht ist
