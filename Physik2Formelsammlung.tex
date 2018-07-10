@@ -34,14 +34,14 @@ Beispiel:
   \begin{tabular}{l | l | r}
     Formelzeichen & Physikalische Größe & Einheit\\
     \hline \hline
-    \(f\) & Frequenz & Hz\\ \hline
+    \(f\) & Frequenz & \(Hz\)\\ \hline
     \(T\) & Schwingungsdauer & \(s\)\\ \hline
     \(\omega _0\) & Winkelgeschwindigkeit (ungedämpftes System) & \(s^{-1}\)\\ \hline
     \(\omega _d\) & Winkelgeschwindigkeit (gedämpftes System) & \(s^{-1}\)\\ \hline
     \(k\) & Federkonstante & \(\frac{N}{m}\)\\ \hline
     \(x\) & Auslenkung & \(m\)\\ \hline
     \(l\) & Länge Fadenpendel & \(m\)\\ \hline
-    \(D\) & Dämpfungskonstante & (Einheitenlos)\\ \hline
+    \(D\) & Dämpfungskonstante & Einheitenlos\\ \hline
     \(\delta\) & Abklingkoeffizient & \(s^{-1}\)\\ \hline
     \(b\) & Reibkonstante & \(\frac{kg}{s}\)\\ \hline
     \(F_E\) & Anregende Kraft & \(N\)\\ \hline
@@ -50,6 +50,7 @@ Beispiel:
     \(J\) & Massenträgheitsmoment & \(kg*m^2\)\\ \hline
     \(\varphi\) & Drehwinkel & Bogenmaß\\ \hline
     \(M\) & Drehmoment & \(Nm\)\\ \hline
+    \(\Lambda\) & Logarithmisches Dekrement & Einheitenlos\\ \hline
   \end{tabular}
 \end{center}
 
@@ -78,10 +79,11 @@ Beispiel:
 \paragraph{Kriterium für harmonische Schwingung: } \textbf{\(\frac{x}{F}\), bzw. \(\frac{\varphi}{M}\) muss linear sein!}
 \paragraph{Weg-Zeit-Gesetz} \dotfill \(x(t)=x_0 * \cos(\omega_0 t + \varphi_0)\)
 \paragraph{Geschwindigkeit-Zeit-Gesetz} \dotfill \(v(t) = -x_0 * \omega_0 * \sin (\omega_0 t + \varphi_0)\)
-\paragraph{Beschleunigung-Zeit-Gesetz} \dotfill \(v(t) = -x_0 * \omega_0^2 * \cos (\omega_0 t + \varphi_0)\)
+\paragraph{Beschleunigung-Zeit-Gesetz} \dotfill \(a(t) = -x_0 * \omega_0^2 * \cos (\omega_0 t + \varphi_0)\)
 
 \paragraph{Maximale Geschwindigkeit im Schwingvorgang} \dotfill \(v_{\max} = x_m * \omega _0\)\\
 \myhspace \textcolor{myred}{\(v_{\min}\) ist immer \(= 0\)!}
+\paragraph{Maximale Beschleunigung} \dotfill \(a_{\max} = x_m * \omega_0^2\)
 \paragraph{Amplitude \(x_m\)} \dotfill \(x_m = \sqrt{x_0^2 + {\left( \frac{v_0}{\omega _0} \right)}^2}\)
 \paragraph{Kreisfrequenz ungedämpft} \dotfill \(\omega_0=\sqrt{\frac{k}{m}}\) Und bei Drehbewegungen: \(\omega_0=\sqrt{\frac{k}{J}}\)
 \paragraph{Hookesches Gesetz} \dotfill \(F_R=k*x\)
@@ -113,7 +115,8 @@ Beispiel:
 \subsubsection{Federpendel}
 
 \paragraph{Schwingungsdauer beim Federpendel} \dotfill \(T = 2\pi \sqrt{\frac{m}{k_{\text{ges}}}}\)
-\paragraph{Energie beim Federpendel} \dotfill \(E = \frac{1}{2} k_{\text{ges}} * x^2\)
+\paragraph{Kinetische Energie} \dotfill \(E_{\text{kin}} = \frac{1}{2} m * v^2\)
+\paragraph{Elastische Energie} \dotfill \(E_{\text{el}} = \frac{1}{2} k_{\text{ges}} * x^2\)
 
 \subsection{Gedämpfte Systeme}
 
@@ -220,9 +223,7 @@ Bei allen fahrenden / mit der Erde verbundenen Schallquellen gilt \mybfred{\(\bo
 \paragraph{Machscher Kegel} \dotfill \(\sin \left( \frac{\alpha}{2} \right) = \frac{c}{v_S} = \frac{1}{Ma}\)
 \paragraph{Machzahl} \dotfill \(Ma = \frac{v_S}{c}\)
 \paragraph{Ab wann Überschallknall?} \dotfill \(c = v \text{ \footnotesize Bei Drehbewegung: }\frac{c}{r} = \frac{v}{r} = \omega\)
-
-
-
+\paragraph{Zentrifugalbeschleunigung} \dotfill \(a = r \cdot \omega^2\)
 
 
 %------------------------- Wellen ----------------------------
@@ -269,8 +270,8 @@ Umrechung von Bogensekunden in Grad: \dotfill \(0 \degree 0\degree \text{Wert}\d
 \myhspace \textbf{Gilt nur für Grundschwingung!}
 \paragraph{Länge einfachster Fall (ungleiche Enden)} \dotfill \(l = \frac{\lambda}{4} = \frac{c}{4f_0}\)\\
 \myhspace \textbf{Gilt nur für Grundschwingung!}
-\paragraph{Grundschwingung/Wellenlänge gleiche Enden} \dotfill \(f = \frac{c}{4*l} ; \lambda = 4 * l\)
-\paragraph{Grundschwingung ungleiche Enden} \dotfill \(f = \frac{c}{2*l} ; \lambda = 2 * l\)
+\paragraph{Grundschwingung/Wellenlänge gleiche Enden} \dotfill \(f = \frac{c}{2*l} ; \lambda = 2 * l\)
+\paragraph{Grundschwingung ungleiche Enden} \dotfill \(f = \frac{c}{4*l} ; \lambda = 4 * l\)
 \paragraph{Frequenzverhältnis} \dotfill Bsp. \(\frac{5}{4} \rightarrow \frac{\text{Frequenz nachher}}{\text{Frequenz vorher}}\)
 \paragraph{Wellenzahl} \dotfill \(k = \frac{2\pi}{\lambda} = \frac{\omega}{c}\)
 \paragraph{Wellengeschwindigkeit} \dotfill \(c = \sqrt{\frac{F_G}{\rho * A}}\) bzw. \(= \sqrt{\frac{F(x)_G}{\rho * A}}\)\\ , Wenn nicht die gesamte, sondern die Geschwindigkeit an einer bestimmten Stelle gesucht ist
